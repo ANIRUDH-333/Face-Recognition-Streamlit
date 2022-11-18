@@ -1,5 +1,6 @@
 opencv-python-headless
 streamlit
-mediapipe
-cvzone
-skia-python
+streamlit_webrtc
+face_recognition
+numpy
+Pillow
