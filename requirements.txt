@@ -2,5 +2,6 @@ opencv-python-headless
 face_recognition
 numpy
 Pillow
+dlib-bin
 streamlit
 streamlit-webrtc
