@@ -1,0 +1,13 @@
+channels:
+     - conda-forge
+dependencies:
+    - dlib
+    - numpy
+    - pandas
+    - scipy
+    - opencv
+    - face_recognition
+    - streamlit
+    - streamlit-webrtc
+    - imutils
+    - av
